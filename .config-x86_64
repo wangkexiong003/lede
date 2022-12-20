@@ -1,0 +1,9 @@
+CONFIG_TARGET_x86=y
+CONFIG_TARGET_x86_64=y
+CONFIG_TARGET_x86_64_DEVICE_generic=y
+
+# CONFIG_PACKAGE_luci-app-aliyundrive-fuse=y
+# CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
+CONFIG_PACKAGE_luci-app-vssr=y
+CONFIG_PACKAGE_luci-app-alist=y
+CONFIG_PACKAGE_davfs2=y
